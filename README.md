@@ -1,26 +1,19 @@
-## Olaaa, eu sou Flavio Neves, programador Back-end python!!!
+# ℍ𝕖𝕝𝕝𝕠, 𝕚'𝕞 𝔽𝕝𝕒𝕧𝕚𝕠 ℕ𝕖𝕧𝕖𝕤
 
-<div align="center">
-  <a href="https://github.com/FlavioNevs">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=FlavioNevs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNevs&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+#### ℙ𝕪𝕥𝕙𝕠𝕟 𝔹𝕒𝕔𝕜-𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  
-  <img align="right" alt="profile" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/60182792?v=4">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:flavio.neevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flavionevs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![GITHUB_STATS](https://github-readme-stats.vercel.app/api?username=FlavioNevs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+
+## 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)
+![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff) 
+![CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
