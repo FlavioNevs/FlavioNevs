@@ -2,7 +2,9 @@
 
 #### ℙ𝕪𝕥𝕙𝕠𝕟 𝔹𝕒𝕔𝕜-𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 
-![GITHUB_STATS](https://github-readme-stats.vercel.app/api?username=FlavioNevs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+```python
+
+```
 
 ## 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤
 
@@ -17,3 +19,7 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff) 
 ![CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
+
+## 𝕊𝕥𝕒𝕥𝕤
+
+![GITHUB_STATS](https://github-readme-stats.vercel.app/api?username=FlavioNevs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
